@@ -6,11 +6,12 @@ The login constraints represented by the email pattern and the length of the pas
 
 ## The Login Page
 
-In the project directory, you can run:
+![Alt text](https://github.com/AbdulghaffarAbed/login-app/blob/master/UI_images/login_page.PNG)
 
 
 ## The Home Page
 
+![Alt text](https://github.com/AbdulghaffarAbed/login-app/blob/master/UI_images/home_page.PNG)
 
 ### `npm start`
 
